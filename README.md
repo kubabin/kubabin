@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kubabin :)
-- 🌱 I’m currently learning PHP and SQL
+- 🌱 I’m currently learning .NET WPF
 - I'm on discord! : createview#2937
 
 <!---
